@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gnikchance
-- 👀 I’m interested in Full-Stack development and VR web apps.
-- 🌱 I’m currently learning VR Unity Development
+- 👀 I’m a Full-Stack Javascript developer and aspiring entrepreneur.
+- 🌱 I’m currently learning more about VR Unity Development
 
 
 <!---
